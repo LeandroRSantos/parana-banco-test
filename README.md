@@ -28,6 +28,3 @@ Jira, Cypress, Cucumber, Nodejs, Java, Javascript, Python, Postman.
 
 # Como voce se imagina atuando nessa equipe?
 Com olhar de dono e ao mesmo tempo de usuario, sugerindo melhorias, entendendo muito sobre o negócio para estar no intermédio do P.O com os Desenvolvedores, auxiliando o P.O nos refinamentos e planejamento das historias, olhar critico nos testes prezando sempre pela qualidade do serviço ou produto, com a intenção de mitigar os bugs e encontra-los antes de ir para produção.
-
-
-
