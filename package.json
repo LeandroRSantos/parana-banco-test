@@ -1,0 +1,14 @@
+{
+  "name": "PS Parana Banco",
+  "version": "1.0.0",
+  "description": "Parana Banco",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Leandro Ribeiro",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
